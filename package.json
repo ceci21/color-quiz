@@ -21,7 +21,7 @@
   "devDependencies": {
     "@emotion/babel-plugin": "^11.2.0",
     "node-sass": "^4.5.3",
-    "react-scripts": "^3.4.4",
+    "react-scripts": "^5.0.1",
     "sass-loader": "^6.0.6"
   },
   "scripts": {
